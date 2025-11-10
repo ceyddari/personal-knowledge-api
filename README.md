@@ -1,11 +1,11 @@
-**Personal Knowledge API**
+# Personal Knowledge API
 
 A simple RESTful API built with *FastAPI* and *SQLite* to manage personal notes or knowledge entries.
 Users can *create*, *read*, *update*, and *delete* notes with optional *filtering* and *search* functionality.
 
 ------------------------------------------------------------
 
-**Features**
+## Features
 - Add, edit, delete, and list notes
 - Filter notes by *category*, *favorite status*, or *keywords*
 - *SQLite* database integration
@@ -13,7 +13,7 @@ Users can *create*, *read*, *update*, and *delete* notes with optional *filterin
 
 ------------------------------------------------------------
 
-**Tech Stack**
+## Tech Stack
 - *Python 3.9+*
 - *FastAPI*
 - *SQLite*
@@ -21,7 +21,7 @@ Users can *create*, *read*, *update*, and *delete* notes with optional *filterin
 
 ------------------------------------------------------------
 
-**Installation**
+## Installation
 
 1. Clone the repository:
    git clone https://github.com/yourusername/personal-knowledge-api.git
@@ -43,7 +43,7 @@ Users can *create*, *read*, *update*, and *delete* notes with optional *filterin
 
 ------------------------------------------------------------
 
-*Example JSON Body*
+## Example JSON Body
 {
   "title": "FastAPI with SQLite",
   "content": "Learning how to build REST APIs using FastAPI and SQLite.",
